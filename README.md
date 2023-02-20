@@ -1,2 +1,2 @@
 # sign-tool
-<vid src="https://streamable.com/scwfw9">
+https://streamable.com/scwfw9
