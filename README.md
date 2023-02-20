@@ -1,2 +1,2 @@
 # sign-tool
-![caption](https://streamable.com/scwfw9)
+<vid src="https://streamable.com/scwfw9">
