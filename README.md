@@ -1,5 +1,4 @@
 # sign-tool
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/scwfw9" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 <video width="320" height="240" controls>
   <source src="https://streamable.com/e/scwfw9" type="video/mp4">
 </video>
