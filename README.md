@@ -1,2 +1,1 @@
-# sign-tool
-https://streamable.com/e/scwfw9
+#sign-tool
